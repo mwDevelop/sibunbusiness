@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356099742930",
+    "project_id": "sibunbusiness",
+    "storage_bucket": "sibunbusiness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356099742930:android:eab5542f82bb6fba85a10b",
+        "android_client_info": {
+          "package_name": "com.sibunbusiness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGwHArU8bqaWJpjE9qwq_lDryVCt8eJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
